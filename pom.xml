@@ -2,13 +2,13 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 <modelVersion>4.0.0</modelVersion>
 
-<groupId>ch.titan.upload</groupId>
-<artifactId>titan-upload-component</artifactId>
+<groupId>ch.liubai.upload</groupId>
+<artifactId>liubai-upload-component</artifactId>
 <packaging>pom</packaging>
 <version>1.0.1</version>
 <modules>
-    <module>titan-upload-core</module>
-    <module>titan-upload-spring-boot-starter</module>
+    <module>liubai-upload-core</module>
+    <module>liubai-upload-spring-boot-starter</module>
 </modules>
 
 <properties>

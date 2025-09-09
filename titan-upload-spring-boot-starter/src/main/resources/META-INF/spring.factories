@@ -1,4 +1,0 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-ch.titan.upload.FileMetadataStorageFactory
-
-
